@@ -80,6 +80,7 @@ Architecture
 * Principles of Software Engineering
 * Open course 
 * Project work
+  
    
 
 
@@ -106,6 +107,7 @@ Architecture
   Programming
 * Elective Course
 * Project work
+* viva  
    
 
 </details>
